@@ -1,0 +1,21 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timer-setting {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  width: 250px;
+  margin: 20px;
+}
+
+button {
+  border-radius: 2px;
+  width: 80px;
+}
+button:hover {
+  color :brown;
+}
